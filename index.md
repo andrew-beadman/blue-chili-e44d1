@@ -10,17 +10,8 @@ sections:
   - title: 'Welcome to my portfolio '
     section_id: lorem-ipsu
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      This site is to show my IT and technical skills.
     actions: []
     type: section_content
 seo:
