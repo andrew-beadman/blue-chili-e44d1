@@ -16,7 +16,7 @@ sections:
     type: section_content
 seo:
   title: Andrew Beadman
-  description: The preview of the Fresh theme
+  description: 'Andrew Beadman '
   extra:
     - name: 'og:type'
       value: website
