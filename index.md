@@ -7,14 +7,6 @@ sections:
     title: 'Hi, I''m Andrew Beadman.'
     content: |
       I am a IT student
-  - section_id: recent-posts
-    type: section_posts
-    title: Units
-    posts_number: 4
-    actions:
-      - label: View Blog
-        url: blog/index.html
-        style: button
 seo:
   title: Andrew Beadman
   description: The preview of the Fresh theme
