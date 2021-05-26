@@ -11,7 +11,7 @@ sections:
     section_id: lorem-ipsu
     image_alt: lorem-ipsum
     content: |
-      This site is to show my IT and technical skills.
+      This site is to showcase my IT and technical skills.
     actions: []
     type: section_content
 seo:
