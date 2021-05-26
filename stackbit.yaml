@@ -115,6 +115,7 @@ models:
         label: Title
         description: Site title
         required: true
+        default: Andrew Beadman
       - type: string
         name: domain
         label: Domain
