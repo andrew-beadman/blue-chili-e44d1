@@ -25,7 +25,7 @@ seo:
       value: Andrew Beadman
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: Andrew Beadman
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
