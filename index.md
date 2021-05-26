@@ -7,7 +7,7 @@ sections:
     title: 'Hi, I''m Andrew Beadman.'
     content: |
       I'm an IT student.
-  - title: lorem-ipsum
+  - title: 'Welcome to my '
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
