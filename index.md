@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:title'
       value: Andrew Beadman
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: Andrew Beadman
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
