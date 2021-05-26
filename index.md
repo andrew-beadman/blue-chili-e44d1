@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Andrew Beadman.'
     content: |
-      I am a IT student
+      I'm an IT student
 seo:
   title: Andrew Beadman
   description: The preview of the Fresh theme
